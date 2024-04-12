@@ -1,7 +1,7 @@
 # Arrays
 
 > Time complexity - we look at worst case for **Big O notation**
----
+
 
 ## Operations
 Few operations and time complexity in Big O notation
@@ -23,7 +23,6 @@ Few operations and time complexity in Big O notation
 * use `l.pop(), l.remove(value), l.delete(idx, value)` to delete an element
 * O(n) - where n is no of swaps
 
----
 
 ## Dynamic vs Static Array
 Difference and working of Dynamic vs Static array
